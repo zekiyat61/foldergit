@@ -1,1 +1,2 @@
-Content for b.txt
+hi
+
